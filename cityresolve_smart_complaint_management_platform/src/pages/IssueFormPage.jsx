@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import { supabase } from '../supabase/supabaseClient';
 import axios from 'axios';
 import emailjs from 'emailjs-com'; // 👈 Already imported
