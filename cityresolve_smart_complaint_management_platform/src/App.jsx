@@ -12,8 +12,8 @@ import ProtectedRoute from './components/ProtectedRoute';
 import Navbar from './components/Navbar';
 import IssueDetailPage from './pages/IssueDetailPage';
 import { Fragment } from 'react';
-import { useNavigate } from 'react-router-dom';
-import { useParams } from 'react-router-dom';
+//import { useNavigate } from 'react-router-dom';
+//import { useParams } from 'react-router-dom';
 
 
 function AppContent() {

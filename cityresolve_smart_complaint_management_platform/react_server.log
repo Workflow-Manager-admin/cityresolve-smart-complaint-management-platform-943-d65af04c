@@ -1485,3 +1485,23 @@ cached modules 2 MiB [cached] 157 modules
 runtime modules 27.5 KiB 13 modules
 ./src/pages/IssueFormPage.jsx 12.3 KiB [built] [code generated]
 webpack 5.99.9 compiled successfully in 131 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 2.33 MiB
+  asset bundle.js 2.32 MiB [emitted] (name: main)
+  asset main.a75849ebecd9c9548a0d.hot-update.js 7.75 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.a75849ebecd9c9548a0d.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 2.33 MiB = bundle.js 2.32 MiB main.a75849ebecd9c9548a0d.hot-update.js 7.75 KiB
+cached modules 2.01 MiB [cached] 157 modules
+runtime modules 27.5 KiB 13 modules
+./src/App.jsx 2.62 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 87 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 2.33 MiB
+  asset bundle.js 2.32 MiB [emitted] (name: main)
+  asset main.83af1170db576ce3a3a4.hot-update.js 7.79 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.83af1170db576ce3a3a4.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 2.33 MiB = bundle.js 2.32 MiB main.83af1170db576ce3a3a4.hot-update.js 7.79 KiB
+cached modules 2.01 MiB [cached] 157 modules
+runtime modules 27.5 KiB 13 modules
+./src/App.jsx 2.62 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 70 ms
